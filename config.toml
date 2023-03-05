@@ -1,4 +1,4 @@
 baseURL = 'https://yunfenggao.github.io/'
 languageCode = 'zh-cn'
 title = 'gaoyunfeng'
-theme = 'nostyleplease'
+theme = 'hugo-theme-nostyleplease'

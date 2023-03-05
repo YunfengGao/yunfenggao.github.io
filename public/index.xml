@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gaoyunfeng</title>
+    <link>https://yunfenggao.github.io/</link>
+    <description>Recent content on gaoyunfeng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 25 Aug 2022 21:30:04 +0800</lastBuildDate><atom:link href="https://yunfenggao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://yunfenggao.github.io/posts/first-post/</link>
+      <pubDate>Sun, 05 Mar 2023 21:12:39 +0800</pubDate>
+      
+      <guid>https://yunfenggao.github.io/posts/first-post/</guid>
+      <description>Quick Start Create a new post $ hugo new post/first.md Run server $ hugo server -D Deploy $ hugo More info: Quickstart</description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://yunfenggao.github.io/about/me/</link>
+      <pubDate>Sun, 05 Mar 2023 21:12:04 +0800</pubDate>
+      
+      <guid>https://yunfenggao.github.io/about/me/</guid>
+      <description>hello world.</description>
+    </item>
+    
+  </channel>
+</rss>

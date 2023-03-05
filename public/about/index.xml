@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on gaoyunfeng</title>
+    <link>https://yunfenggao.github.io/about/</link>
+    <description>Recent content in Abouts on gaoyunfeng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 05 Mar 2023 21:12:04 +0800</lastBuildDate><atom:link href="https://yunfenggao.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>me</title>
+      <link>https://yunfenggao.github.io/about/me/</link>
+      <pubDate>Sun, 05 Mar 2023 21:12:04 +0800</pubDate>
+      
+      <guid>https://yunfenggao.github.io/about/me/</guid>
+      <description>hello world.</description>
+    </item>
+    
+  </channel>
+</rss>

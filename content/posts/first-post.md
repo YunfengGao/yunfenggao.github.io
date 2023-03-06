@@ -21,6 +21,7 @@ $ hugo server -D
 
 ``` bash
 $ hugo
+
 ```
 
 More info: [Quickstart](https://www.gohugo.org/doc/overview/quickstart/)

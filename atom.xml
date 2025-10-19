@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Simple Life</title>
+  
+  
+  <link href="https://gaoyunfeng.org/atom.xml" rel="self"/>
+  
+  <link href="https://gaoyunfeng.org/"/>
+  <updated>2025-10-19T09:36:31.674Z</updated>
+  <id>https://gaoyunfeng.org/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>异地多活单元化架构下的微服务体系</title>
+    <link href="https://gaoyunfeng.org/microservice-system-under-remote-multi-active-unit-architecture/"/>
+    <id>https://gaoyunfeng.org/microservice-system-under-remote-multi-active-unit-architecture/</id>
+    <published>2025-10-18T16:00:00.000Z</published>
+    <updated>2025-10-19T09:36:31.674Z</updated>
+    
+    
+    <summary type="html">本文主要介绍qcon2018上蚂蚁金服时晖分享的《异地多活单元化架构下的微服务体系》</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《焦虑的人》</title>
+    <link href="https://gaoyunfeng.org/book-folk-med-angest/"/>
+    <id>https://gaoyunfeng.org/book-folk-med-angest/</id>
+    <published>2025-05-04T16:00:00.000Z</published>
+    <updated>2025-07-16T14:50:59.786Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;p&gt;究竟是何种程度的无奈和绝望，迫使一个中年人在新年来临前的早晨，用一把玩具枪抢劫一家无现金银行。行动失败的劫匪仓皇之中逃进一间位于大楼顶层的待</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Method Parameter Reflection in Java</title>
+    <link href="https://gaoyunfeng.org/method-parameter-reflection-in-java/"/>
+    <id>https://gaoyunfeng.org/method-parameter-reflection-in-java/</id>
+    <published>2023-03-20T06:45:00.000Z</published>
+    <updated>2025-05-05T04:22:14.745Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在Java8中，可以使用 java.lang.reflect.Executable.getParameters 获取方法或构造函数的形参名称，（Method 和 Constructor 类扩展了 Executable 类，因此继承了 Executable.getParameters 方法）。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《构建可伸缩的web应用》</title>
+    <link href="https://gaoyunfeng.org/book-build-scalable-web-applications/"/>
+    <id>https://gaoyunfeng.org/book-build-scalable-web-applications/</id>
+    <published>2023-02-01T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.743Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;索引创建的法则：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;基数越高，性能越好&lt;/li&gt;
+&lt;li&gt;数据均匀分布时性能更好&lt;/li&gt;
+&lt;/ol&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《三体》随感</title>
+    <link href="https://gaoyunfeng.org/book-three-body/"/>
+    <id>https://gaoyunfeng.org/book-three-body/</id>
+    <published>2023-01-30T13:38:00.000Z</published>
+    <updated>2025-05-05T04:22:14.744Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录三体里印象较深的一些片段以及自己的思考。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《团队协作的五大障碍》摘抄</title>
+    <link href="https://gaoyunfeng.org/the-five-dysfunctions-of-a-team/"/>
+    <id>https://gaoyunfeng.org/the-five-dysfunctions-of-a-team/</id>
+    <published>2022-12-31T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.746Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;团队协作的五大障碍：缺乏信任、惧怕冲突、欠缺投入、逃避责任、无视结果。&lt;br&gt;本书主要介绍了这五个问题的产生原因，表现形式以及解决方法。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>编程珠玑第一章：磁盘排序问题</title>
+    <link href="https://gaoyunfeng.org/book-programming-pearls-ch1/"/>
+    <id>https://gaoyunfeng.org/book-programming-pearls-ch1/</id>
+    <published>2021-05-30T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.744Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h3&gt;&lt;p&gt;输入：一个最多包含&lt;em&gt;n&lt;/em&gt;个不同正整数的文件，每个数都小于&lt;em&gt;n&lt;/em&gt;，其中&lt;em&gt;n&lt;/em&gt;&amp;#x3D;$10^7$。&lt;br&gt;&lt;br&gt;输出：将输入的整数按升序排序。&lt;br&gt;约束：最多有（大约）&lt;strong&gt;1MB&lt;/strong&gt;的内存空间可用，有充足的磁盘存储空间可用。运行时间最多几分钟，运行时间为10秒就不需要进一步优化了。     &lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【转载】劳动者驯化</title>
+    <link href="https://gaoyunfeng.org/laborer-domestication/"/>
+    <id>https://gaoyunfeng.org/laborer-domestication/</id>
+    <published>2021-05-25T16:00:00.000Z</published>
+    <updated>2025-08-10T16:42:16.212Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;劳动者的驯化是一个复杂的系统性的工程，资本家是推动这个进程的最大收益者，但在一些资本主义国家zf也是这个进程的参与者。&lt;/p&gt;
+&lt;h3 id=&quot;首先是从教育上&quot;&gt;&lt;a href=&quot;#首先是从教育上&quot; class=&quot;headerlink&quot; title=&quot;首先是从教育上&quot;&gt;&lt;/</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>华为云OBS+PicGo图床搭建</title>
+    <link href="https://gaoyunfeng.org/picbed-with-picgo-and-huawei-obs/"/>
+    <id>https://gaoyunfeng.org/picbed-with-picgo-and-huawei-obs/</id>
+    <published>2021-05-15T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.745Z</updated>
+    
+    
+    <summary type="html">介绍如何使用华为云OBS搭建图床，结合开源工具PicGo简化图片管理操作</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Dapper:大规模分布式系统的跟踪系统</title>
+    <link href="https://gaoyunfeng.org/paper-dapper-a-large-scale-distributed-systems-tracing-infrastructure/"/>
+    <id>https://gaoyunfeng.org/paper-dapper-a-large-scale-distributed-systems-tracing-infrastructure/</id>
+    <published>2021-04-30T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.745Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这篇论文作于2010年，主要解决了在分布式系统下进行调用链追踪的问题。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《软技能：代码之外的生存指南》</title>
+    <link href="https://gaoyunfeng.org/book-soft-skills/"/>
+    <id>https://gaoyunfeng.org/book-soft-skills/</id>
+    <published>2021-02-20T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.744Z</updated>
+    
+    
+    <summary type="html">健身、专业技能、理财、社交</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《我是猫》摘抄</title>
+    <link href="https://gaoyunfeng.org/book-i-am-a-cat/"/>
+    <id>https://gaoyunfeng.org/book-i-am-a-cat/</id>
+    <published>2021-02-13T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.743Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;一本很好读的书，很有趣，读的时候可以笑起来。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《绝叫》摘抄</title>
+    <link href="https://gaoyunfeng.org/book-zekkyo/"/>
+    <id>https://gaoyunfeng.org/book-zekkyo/</id>
+    <published>2021-02-11T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.744Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;关键词：日本，犯罪，悬疑，社会，孤独死，第二人称视角，校园暴力，非盈利组织，新时代女性，保险，职场PUA，歌舞伎町，网络&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《人类简史》摘抄</title>
+    <link href="https://gaoyunfeng.org/book-a-brief-history-of-humankind/"/>
+    <id>https://gaoyunfeng.org/book-a-brief-history-of-humankind/</id>
+    <published>2020-02-11T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.743Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;人类的语言真正最独特的功能，并不在于能够传达关于人或狮子的信息，而是能够传达关于一些根本不存在的事物的信息。据我们所知，只有智人能够表达关于从来没有看过、碰过、耳闻过的事物，而且能讲的煞有介事。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java书单</title>
+    <link href="https://gaoyunfeng.org/java-book-list/"/>
+    <id>https://gaoyunfeng.org/java-book-list/</id>
+    <published>2019-08-17T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.745Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;语言&quot;&gt;&lt;a href=&quot;#语言&quot; class=&quot;headerlink&quot; title=&quot;语言&quot;&gt;&lt;/a&gt;语言&lt;/h2&gt;&lt;p&gt;Java核心技术&lt;br&gt;Java编程的逻辑&lt;br&gt;Effective Java&lt;br&gt;深入理解Java虚拟机&lt;br&gt;Java并发编程实践&lt;br&gt;Java性能优化权威指南&lt;br&gt;Java8实战   &lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://gaoyunfeng.org/hello-world/"/>
+    <id>https://gaoyunfeng.org/hello-world/</id>
+    <published>2017-09-19T16:00:00.000Z</published>
+    <updated>2025-05-05T04:22:14.744Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MBTI</title>
+    <link href="https://gaoyunfeng.org/mbti/"/>
+    <id>https://gaoyunfeng.org/mbti/</id>
+    <published>2015-09-14T16:00:00.000Z</published>
+    <updated>2025-08-10T15:45:32.569Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;28题的和93题的都是INFJ…&lt;/p&gt;
+&lt;p&gt;测试地址:&lt;a href=&quot;http://www.apesk.com/mbti/dati.asp&quot;&gt;http://www.apesk.com/mbti/dati.asp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;才储分析：您的性格类型倾向为“ I</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>快速读写挂</title>
+    <link href="https://gaoyunfeng.org/fast-io/"/>
+    <id>https://gaoyunfeng.org/fast-io/</id>
+    <published>2014-12-07T16:00:00.000Z</published>
+    <updated>2025-08-10T15:35:10.168Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;有时候读入数据量很大会超时，据说…这时候读写挂能派上用场&lt;br&gt;快速读写挂&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
